@@ -1,4 +1,0 @@
-moviedb
-=======
-
-Sample movie database
